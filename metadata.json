@@ -1,0 +1,8 @@
+{
+  "name": "CrisisSight",
+  "description": "A multimodal AI agent that analyzes disaster site footage to prioritize triage, generate action checklists, and find local resources using Gemini Vision and Search Grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
